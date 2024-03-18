@@ -8,7 +8,7 @@ Les méthodes agiles ont révolutionné l'organisation des projets de développe
 
 === ...
 
-Les programmeurs sont décomposés en composants. Les composants sont développeés par des crums (équipes mêlées) au cours de cycles courts (sprints) qui traitent des besoins, de leur codage, des tests et des mises en production. La notion d'agile a été ensuite étendue au management.
+Les programmes sont décomposés en composants. Les composants sont développeés par des scrums (équipes mêlées) au cours de cycles courts (sprints) qui traitent des besoins, de leur codage, des tests et des mises en production. La notion d'agile a été ensuite étendue au management.
 
 
 === ...
