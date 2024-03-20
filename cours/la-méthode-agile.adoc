@@ -70,7 +70,7 @@ De cette façon, les parties prenantes ne perdent ni la motivation, ni les conni
 
 === ...
 
-Les besoins émis et formalisés par les utilisateurs en équipe mêlée (scrum ) sont très vite codés pour avoir des bouts d'applicatif à tester et à mettre en production pour être confrontés aux besoins des utilisateurs, et ainsi faire l'objet d'adaptations et de corrections jusqu'à la version jugée finale. 
+Les besoins émis et formalisés par les utilisateurs en équipe mêlée (scrum ) sont très vite codés pour avoir des bouts d'application à tester et à mettre en production pour être confrontés aux besoins des utilisateurs, et ainsi faire l'objet d'adaptations et de corrections jusqu'à la version jugée finale. 
 
 
 === L'agilité en méthoide
@@ -92,8 +92,8 @@ Elle tient en douze principes généraux;
 
 [%step]
 * Avance à un rythme soutenable et constant 
-* Donner la prioriété à l'excelsence technique et à la conception 
-* Faoire simple 
+* Donner la prioriété à l'excelence technique et à la conception 
+* Faire simple 
 
 
 === ...
